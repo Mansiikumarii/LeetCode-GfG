@@ -40,3 +40,8 @@ Tweet 1 has length = 11. It is a valid tweet.
 Tweet 2 has length = 33. It is an invalid tweet.
 </pre>
 </div>
+
+<strong>LENGTH()</strong>
+Returns the length of a string in bytes. For example, the CHAR and VARCHAR types are declared with a length that indicates the maximum number of characters to store.
+<strong>COUNT()</strong>
+An in-built aggregate function that counts values in the query results and returns the total number. For example, you can use the COUNT(*) function to count the number of rows in a table, or the COUNT(column_name) function to count the number of non-null values in a column.
