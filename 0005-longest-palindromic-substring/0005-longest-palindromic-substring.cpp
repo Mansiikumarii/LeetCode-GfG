@@ -5,7 +5,7 @@ using namespace std;
 class Solution {
 public:
     // Helper function to expand around the center and check for longest palindrome
-    string expandAroundCenter(const std::string& s, int left, int right) {
+    string expandAroundCenter(const string& s, int left, int right) {
         while (left >= 0 && right < s.length() && s[left] == s[right]) {
             left--;
             right++;
