@@ -18,3 +18,19 @@ Solutions are regularly updated with optimized code and new problem-solving appr
 - **C++, Python, SQL** as primary languages
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
+<!---LeetCode Topics End-->
