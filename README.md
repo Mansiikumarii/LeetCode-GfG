@@ -38,4 +38,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
