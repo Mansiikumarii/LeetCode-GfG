@@ -42,4 +42,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
