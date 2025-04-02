@@ -24,6 +24,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -48,4 +49,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
