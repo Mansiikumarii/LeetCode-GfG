@@ -42,6 +42,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0007-reverse-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2491-smallest-even-multiple) |
