@@ -26,6 +26,7 @@ Happy Coding! 🚀
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
@@ -36,9 +37,11 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Math
@@ -46,6 +49,7 @@ Happy Coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2383-add-two-integers) |
@@ -67,9 +71,14 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
