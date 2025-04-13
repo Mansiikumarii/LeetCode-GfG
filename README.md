@@ -29,6 +29,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +82,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Simulation
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
