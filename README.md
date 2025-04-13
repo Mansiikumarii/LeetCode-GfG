@@ -24,6 +24,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
