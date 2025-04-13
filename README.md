@@ -27,6 +27,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -71,6 +72,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
