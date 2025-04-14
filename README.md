@@ -1,134 +1,69 @@
-# LeetCode Solutions
+# 🧠 LeetCode Practice by Mansi
 
-This repository contains my solutions to various LeetCode problems. Each solution includes execution time, space usage, and relevant notes when applicable.
+Welcome to my personal LeetCode repository! 🚀  
+This space is a collection of my solutions to LeetCode problems, optimized for time and space complexity, and automatically synced using **LeetHub**.
 
-## Categories
-- **Arrays & Strings**
-- **Linked Lists**
-- **Dynamic Programming**
-- **Graphs & Trees**
-- **Mathematical Problems**
-- **SQL Queries**
+---
 
-## Contributions
-Solutions are regularly updated with optimized code and new problem-solving approaches.
+## 📊 Stats Summary
 
-## Tools Used
-- **LeetHub** for auto-syncing solutions
-- **C++, Python, SQL** as primary languages
+- ✅ **Total Problems Solved:** `~50+`
+- ⚡ **Fastest Runtime:** `0 ms` on multiple problems
+- 💾 **Most Efficient Space Usage:** `0B` on SQL problems
+- 🧠 **Languages Used:** C++, SQL  
+- 🛠️ **Synced Using:** [LeetHub](https://github.com/QasimWani/LeetHub)
 
-Happy Coding! 🚀
+---
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0027-remove-element) |
-| [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
-| [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
-| [0088-merge-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0088-merge-sorted-array) |
-| [0118-pascals-triangle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0119-pascals-triangle-ii) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
-| [0137-single-number-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0137-single-number-ii) |
-| [0238-product-of-array-except-self](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0238-product-of-array-except-self) |
-| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
-| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
-| [1580-shuffle-the-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1580-shuffle-the-array) |
-| [1603-running-sum-of-1d-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1603-running-sum-of-1d-array) |
-| [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
-| [1791-richest-customer-wealth](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1791-richest-customer-wealth) |
-| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
-| [2058-concatenation-of-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2058-concatenation-of-array) |
-| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0027-remove-element) |
-| [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
-| [0088-merge-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0088-merge-sorted-array) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
-| [0088-merge-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0088-merge-sorted-array) |
-| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
-## Hash Table
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
-| [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0009-palindrome-number) |
-| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
-| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
-| [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
-| [2383-add-two-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2383-add-two-integers) |
-| [2491-smallest-even-multiple](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2491-smallest-even-multiple) |
-| [2556-convert-the-temperature](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2556-convert-the-temperature) |
-| [2752-sum-multiples](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2752-sum-multiples) |
-## Number Theory
-|  |
-| ------- |
-| [2491-smallest-even-multiple](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2491-smallest-even-multiple) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0053-maximum-subarray) |
-| [0118-pascals-triangle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0119-pascals-triangle-ii) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
-| [0137-single-number-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0137-single-number-ii) |
-| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
-| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
-## Counting
-|  |
-| ------- |
-| [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
-## Binary Search
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
-| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
-## Simulation
-|  |
-| ------- |
-| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
-| [2058-concatenation-of-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2058-concatenation-of-array) |
-| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0238-product-of-array-except-self) |
-| [1603-running-sum-of-1d-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1603-running-sum-of-1d-array) |
-| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
-## String
-|  |
-| ------- |
-| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
-## Matrix
-|  |
-| ------- |
-| [1791-richest-customer-wealth](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1791-richest-customer-wealth) |
-## Database
-|  |
-| ------- |
-| [0197-rising-temperature](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0197-rising-temperature) |
-<!---LeetCode Topics End-->
+## 🗂️ Problem Categories
+
+| # | Problem | Runtime | Memory | Tags |
+|---|---------|---------|--------|------|
+| 0001 | Two Sum | 9 ms | 14.7 MB | Array, HashMap |
+| 0002 | Add Two Numbers | 8 ms | 77.4 MB | Linked List, Math |
+| 0004 | Median of Two Sorted Arrays | **0 ms** | 94.7 MB | Binary Search, Divide and Conquer |
+| 0026 | Remove Duplicates from Sorted Array | 3 ms | 22.6 MB | Two Pointers |
+| 0238 | Product of Array Except Self | **0 ms** | 40.1 MB | Prefix Product |
+| 0121 | Best Time to Buy and Sell Stock | 90 ms | **95.9 MB** | Greedy |
+| 0197 | Rising Temperature (SQL) | 2494 ms | 0B | SQL |
+| 1068 | Product Sales Analysis I (SQL) | 1383 ms | 0B | SQL |
+
+_(Check the repo for full list!)_
+
+---
+
+## 🧩 Folder Structure
+
+Each folder is named with the LeetCode problem ID and title. Inside, you’ll typically find:
+- `.cpp` or `.sql` solution file
+- `NOTES.md` or code comments for problem explanation
+- Auto-generated metadata from LeetHub (time/space)
+
+---
+
+## 🧠 Goals
+
+- 🔄 Maintain consistency with daily LeetCode practice
+- 📈 Improve ranking and efficiency
+- 🧪 Explore advanced DSA topics
+
+---
+
+## 📌 Recent Highlights
+
+- `0053-maximum-subarray` – Kadane’s Algorithm
+- `0442-find-all-duplicates-in-an-array` – In-place Cyclic Sort
+- `0119-pascals-triangle-ii` – Optimized Row Calculation
+- `1528-kids-with-the-greatest-number-of-candies` – Simple Greedy Check
+
+---
+
+## 🔗 Useful Links
+
+- [My LeetCode Profile](https://leetcode.com/u/ThFanPRetH/) 
+- [LeetHub Extension](https://github.com/QasimWani/LeetHub)
+
+---
+
+_Updated: April 2025_
+
