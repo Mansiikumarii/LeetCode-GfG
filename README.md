@@ -39,6 +39,7 @@ Happy Coding! 🚀
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2058-concatenation-of-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2058-concatenation-of-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
