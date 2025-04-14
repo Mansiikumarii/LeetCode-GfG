@@ -127,4 +127,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
