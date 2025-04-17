@@ -73,6 +73,7 @@ _Updated: April 2025_
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -85,4 +86,8 @@ _Updated: April 2025_
 | ------- |
 | [0189-rotate-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
