@@ -77,6 +77,7 @@ _Updated: April 2025_
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
