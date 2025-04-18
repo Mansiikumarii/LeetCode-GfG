@@ -1,7 +1,7 @@
 class Solution {
 public:
     void sortColors(vector<int>& arr) {
-        int n = arr.size();
+      /*  int n = arr.size();
     int c0 = 0, c1 = 0, c2 = 0;
 
     // Count 0s, 1s and 2s
@@ -27,5 +27,9 @@ public:
     // Place all the 2s
     for (int i = 0; i < c2; i++)
         arr[idx++] = 2;
+        */
+        sort(arr.begin(),arr.end());
     }
+
+    
 };
