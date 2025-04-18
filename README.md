@@ -83,6 +83,7 @@ _Updated: April 2025_
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0189-rotate-array) |
+| [1806-count-of-matches-in-tournament](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,4 +98,8 @@ _Updated: April 2025_
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
