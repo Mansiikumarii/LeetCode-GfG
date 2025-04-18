@@ -73,6 +73,7 @@ _Updated: April 2025_
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0189-rotate-array) |
@@ -87,6 +88,7 @@ _Updated: April 2025_
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -102,4 +104,8 @@ _Updated: April 2025_
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
