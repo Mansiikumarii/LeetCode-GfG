@@ -73,6 +73,7 @@ _Updated: April 2025_
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -83,6 +84,7 @@ _Updated: April 2025_
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0189-rotate-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## Two Pointers
