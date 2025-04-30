@@ -81,6 +81,7 @@ _Updated: April 2025_
 | [0283-move-zeroes](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +111,12 @@ _Updated: April 2025_
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
