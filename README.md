@@ -80,6 +80,7 @@ _Updated: April 2025_
 | [0189-rotate-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0907-koko-eating-bananas](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -119,4 +120,8 @@ _Updated: April 2025_
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
