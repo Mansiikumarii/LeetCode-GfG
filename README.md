@@ -124,4 +124,12 @@ _Updated: April 2025_
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0907-koko-eating-bananas) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
