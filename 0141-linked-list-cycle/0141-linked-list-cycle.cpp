@@ -18,7 +18,7 @@ public:
         // }
         // return false;
 
-        //By Floyeds algo
+        //By Floyeds cycle detection algo
         ListNode *slow = head;
         ListNode *fast = head;
         while(fast!= NULL and fast->next != NULL){
