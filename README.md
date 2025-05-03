@@ -95,6 +95,7 @@ _Updated: April 2025_
 | ------- |
 | [0075-sort-colors](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -119,6 +120,7 @@ _Updated: April 2025_
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -133,6 +135,7 @@ _Updated: April 2025_
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
