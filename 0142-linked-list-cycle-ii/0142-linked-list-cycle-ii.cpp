@@ -11,7 +11,7 @@ public:
     ListNode *detectCycle(ListNode *head) {
         ListNode *slow = head;
         ListNode *fast = head;
-        while(fast and fast->next){
+        while(fast and fast->next){ //or nahi likheneg bcz null ka next error dega
             slow = slow->next;
             fast = fast->next->next;
             if(slow == fast ) break; //linked ke andar cycle hai
