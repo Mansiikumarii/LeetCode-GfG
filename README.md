@@ -41,9 +41,11 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
