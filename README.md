@@ -47,6 +47,7 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
 ## Array
@@ -57,4 +58,8 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
