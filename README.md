@@ -62,4 +62,17 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
