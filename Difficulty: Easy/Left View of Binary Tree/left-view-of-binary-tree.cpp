@@ -29,24 +29,39 @@ struct Node
 
 class Solution {
   public:
+  //DFS
+  void solve(Node *root, vector<int>&ans, int lev){
+      if(root == NULL) return;
+      if(lev == ans.size()){ //level aur ans ka size equal hai ya nahii
+          ans.push_back(root->data);
+      }
+      //Right view ke liye upar neeche likh denge
+      solve(root->left, ans, lev+1);
+      solve(root->right, ans, lev+1);
+      
+  }
+  
+  //BFS
     vector<int> leftView(Node *root) {
         // code here
         vector<int>ans;
-        if(root == NULL) return ans;
-        queue<Node *>q;
-        q.push(root);
-        while(!q.empty()){
-            int size = q.size();
-            for(int i=0; i<size; i++){
-                Node *node = q.front();
-                q.pop();
-                if(i==0){
-                    ans.push_back(node->data);
-                }
-                if(node -> left) q.push(node->left);
-                if(node->right) q.push(node->right);
-            }
-        }
+        solve(root,ans,0);
+        
+    //     if(root == NULL) return ans;
+    //     queue<Node *>q;
+    //     q.push(root);
+    //     while(!q.empty()){
+    //         int size = q.size();
+    //         for(int i=0; i<size; i++){
+    //             Node *node = q.front();
+    //             q.pop();
+    //             if(i==0){
+    //                 ans.push_back(node->data);
+    //             }
+    //             if(node -> left) q.push(node->left);
+    //             if(node->right) q.push(node->right);
+    //         }
+    //     }
         return ans;
     }
     
