@@ -53,6 +53,7 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 ## Array
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1036-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -88,4 +89,9 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1036-rotting-oranges](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
