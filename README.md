@@ -65,6 +65,7 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 | [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -94,4 +95,12 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1036-rotting-oranges) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
