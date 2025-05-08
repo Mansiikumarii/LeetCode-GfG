@@ -16,6 +16,6 @@ public:
             num2 = num2 ^ nums[i];
 
         }
-        return {num1, num2};
+        return {num1, num2}; //vector ko ham aise return kate hai
     }
 };
