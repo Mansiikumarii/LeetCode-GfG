@@ -53,6 +53,7 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0260-single-number-iii) |
 | [1036-rotting-oranges](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1036-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -103,4 +104,8 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
