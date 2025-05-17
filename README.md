@@ -53,6 +53,7 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
 | [0260-single-number-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0260-single-number-iii) |
 | [1036-rotting-oranges](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1036-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -108,4 +109,8 @@ This repo contains my daily problem-solving journey, with solutions optimized fo
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0260-single-number-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
