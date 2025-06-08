@@ -64,7 +64,7 @@ Each folder contains:
 
 📊 LeetCode Stats
 
-> 🧩 Total Problems Solved: **100+**  
+> 🧩 Total Problems Solved: 100+ 
 > ⚔️ Difficulty Spread: `Easy` ▒▒▒▒▒▒▒▒▒▒▒▒ `Medium` ▒▒▒▒▒▒▒▒ `Hard` ▒▒▒  
 > 🔥 Streak: Ongoing  
 > 📈 Consistency: Weekly commits, fresh uploads
