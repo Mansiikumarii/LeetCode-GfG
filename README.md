@@ -59,7 +59,7 @@ LeetCode-GfG/
 
 Each folder contains:
 - ✅ Solution file
-- 📝 Notes (if any)
+- 📝 Notes 
 - ⏱ Runtime & space stats (from LeetHub)
 
 📊 LeetCode Stats
