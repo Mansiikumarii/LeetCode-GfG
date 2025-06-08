@@ -1,7 +1,8 @@
 ```markdown
 # 💻 LeetCode-GfG Solutions Repository
 
-Welcome to the ultimate problem-solving vault! This repository contains a comprehensive collection of solutions for problems from LeetCode, GeeksforGeeks (GfG), and beyond — thoughtfully curated, cleanly implemented, and performance-optimized.
+Welcome to the ultimate problem-solving vault! This repository contains a comprehensive collection of solutions for problems from LeetCode, GeeksforGeeks (GfG), and beyond — thoughtfully curated,
+cleanly implemented, and performance-optimized.
 
 > ✨ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
