@@ -1,24 +1,12 @@
 ```markdown
-# 💻 LeetCode-GfG Solutions Repository
+💻 LeetCode-GfG Solutions Repository
 
 Welcome to the ultimate problem-solving vault! This repository contains a comprehensive collection of solutions for problems from LeetCode, GeeksforGeeks (GfG), and beyond — thoughtfully curated,
 cleanly implemented, and performance-optimized.
 
 > ✨ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
-## 📚 Table of Contents
-
-- [🚀 About This Repository](#-about-this-repository)
-- [🧠 Topics Covered](#-topics-covered)
-- [🏆 Performance Highlights](#-performance-highlights)
-- [📂 Folder Structure](#-folder-structure)
-- [📊 LeetCode Stats](#-leetcode-stats)
-- [🛠 How to Use](#-how-to-use)
-- [📈 Future Goals](#-future-goals)
-- [🙌 Contributions](#-contributions)
-- [📧 Contact](#-contact)
-
-## 🚀 About This Repository
+🚀 About This Repository
 
 This repo is your one-stop reference for mastering coding problems, built and maintained with consistency and clarity. It includes:
 
@@ -28,7 +16,7 @@ This repo is your one-stop reference for mastering coding problems, built and ma
 ✅ Mix of easy, medium, and hard problems  
 ✅ Real-world interview prep strategies
 
-## 🧠 Topics Covered
+🧠 Topics Covered
 
 🧮 Arrays & Strings  
 🔁 Linked Lists  
@@ -41,7 +29,7 @@ This repo is your one-stop reference for mastering coding problems, built and ma
 🔍 Searching & Sorting  
 🌐 Binary Search Techniques
 
-## 🏆 Performance Highlights
+🏆 Performance Highlights
 
 | Problem                          | Runtime | Memory | Rank |
 |----------------------------------|--------:|--------:|------|
@@ -52,7 +40,7 @@ This repo is your one-stop reference for mastering coding problems, built and ma
 
 > 🏅 *Over 100+ problems solved and growing...*
 
-## 📂 Folder Structure
+📂 Folder Structure
 
 ```
 
@@ -74,14 +62,14 @@ Each folder contains:
 - 📝 Notes (if any)
 - ⏱ Runtime & space stats (from LeetHub)
 
-## 📊 LeetCode Stats
+📊 LeetCode Stats
 
 > 🧩 Total Problems Solved: **100+**  
 > ⚔️ Difficulty Spread: `Easy` ▒▒▒▒▒▒▒▒▒▒▒▒ `Medium` ▒▒▒▒▒▒▒▒ `Hard` ▒▒▒  
 > 🔥 Streak: Ongoing  
 > 📈 Consistency: Weekly commits, fresh uploads
 
-## 🛠 How to Use
+🛠 How to Use
 
 1. Clone the repo:
    ```bash
