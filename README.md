@@ -38,7 +38,7 @@ This repo is your one-stop reference for mastering coding problems, built and ma
 | `0238-product-of-array-except-self` | 0 ms | 40.1 MB | 🥇 Top 100% |
 | `0260-single-number-iii`         | 0 ms    | 13.8 MB | 🥇 Top 100% |
 
-> 🏅 *Over 100+ problems solved and growing...*
+> 🏅 Over 100+ problems solved and growing...
 
 📂 Folder Structure
 
