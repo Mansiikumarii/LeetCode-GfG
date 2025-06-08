@@ -5,8 +5,6 @@ Welcome to the ultimate problem-solving vault! This repository contains a compre
 
 > ✨ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
----
-
 ## 📚 Table of Contents
 
 - [🚀 About This Repository](#-about-this-repository)
@@ -19,8 +17,6 @@ Welcome to the ultimate problem-solving vault! This repository contains a compre
 - [🙌 Contributions](#-contributions)
 - [📧 Contact](#-contact)
 
----
-
 ## 🚀 About This Repository
 
 This repo is your one-stop reference for mastering coding problems, built and maintained with consistency and clarity. It includes:
@@ -30,8 +26,6 @@ This repo is your one-stop reference for mastering coding problems, built and ma
 ✅ Consistent naming & structure  
 ✅ Mix of easy, medium, and hard problems  
 ✅ Real-world interview prep strategies
-
----
 
 ## 🧠 Topics Covered
 
@@ -46,8 +40,6 @@ This repo is your one-stop reference for mastering coding problems, built and ma
 🔍 Searching & Sorting  
 🌐 Binary Search Techniques
 
----
-
 ## 🏆 Performance Highlights
 
 | Problem                          | Runtime | Memory | Rank |
@@ -58,8 +50,6 @@ This repo is your one-stop reference for mastering coding problems, built and ma
 | `0260-single-number-iii`         | 0 ms    | 13.8 MB | 🥇 Top 100% |
 
 > 🏅 *Over 100+ problems solved and growing...*
-
----
 
 ## 📂 Folder Structure
 
@@ -83,16 +73,12 @@ Each folder contains:
 - 📝 Notes (if any)
 - ⏱ Runtime & space stats (from LeetHub)
 
----
-
 ## 📊 LeetCode Stats
 
 > 🧩 Total Problems Solved: **100+**  
 > ⚔️ Difficulty Spread: `Easy` ▒▒▒▒▒▒▒▒▒▒▒▒ `Medium` ▒▒▒▒▒▒▒▒ `Hard` ▒▒▒  
 > 🔥 Streak: Ongoing  
 > 📈 Consistency: Weekly commits, fresh uploads
-
----
 
 ## 🛠 How to Use
 
@@ -105,13 +91,9 @@ Each folder contains:
 3. Open the `.cpp` file inside each folder.
 4. View performance stats in the comments.
 
----
-
 ## 📈 Future Goals
 * [ ] Include problem links and difficulty badges
 * [ ] Add a problem-solving roadmap
-
----
 
 ## 🙌 Contributions
 
@@ -124,19 +106,8 @@ While this repo is primarily a personal journal of progress, contributions are w
 
 Open a pull request or file an issue!
 
----
-
 ## 📧 Contact
 
 **GitHub**: [Mansiiiiiiiiiiiiiiiii](https://github.com/Mansiiiiiiiiiiiiiiiii)
 **Email**: *\[[mansi15094@gmail.com](mailto:mansi15094@gmail.com)]*
 **LeetCode Profile**: *\https://leetcode.com/u/ThFanPRetH/*
-
----
-
-```
-
----
-
-Let me know if you'd like this customized for a specific language (e.g., only Python solutions), or if you'd like badges (e.g., GitHub stars, forks, etc.) added!
-```
