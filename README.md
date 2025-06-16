@@ -106,9 +106,15 @@ Open a pull request or file an issue!
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
