@@ -106,6 +106,7 @@ Open a pull request or file an issue!
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -134,6 +135,7 @@ Open a pull request or file an issue!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
