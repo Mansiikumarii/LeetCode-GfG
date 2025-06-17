@@ -107,6 +107,7 @@ Open a pull request or file an issue!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -141,6 +142,7 @@ Open a pull request or file an issue!
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -149,5 +151,14 @@ Open a pull request or file an issue!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
