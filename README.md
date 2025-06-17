@@ -106,6 +106,7 @@ Open a pull request or file an issue!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@ Open a pull request or file an issue!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 ## Math
