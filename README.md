@@ -175,4 +175,5 @@ Open a pull request or file an issue!
 | [0125-valid-palindrome](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
