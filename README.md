@@ -160,6 +160,7 @@ Open a pull request or file an issue!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -185,4 +186,9 @@ Open a pull request or file an issue!
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
