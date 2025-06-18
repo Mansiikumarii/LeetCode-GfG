@@ -130,6 +130,7 @@ Open a pull request or file an issue!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -166,4 +167,8 @@ Open a pull request or file an issue!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
