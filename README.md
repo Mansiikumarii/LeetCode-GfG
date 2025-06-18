@@ -107,6 +107,7 @@ Open a pull request or file an issue!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@ Open a pull request or file an issue!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
@@ -160,6 +162,7 @@ Open a pull request or file an issue!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
@@ -174,6 +177,7 @@ Open a pull request or file an issue!
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0242-valid-anagram) |
