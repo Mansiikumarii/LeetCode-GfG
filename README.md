@@ -135,6 +135,7 @@ Open a pull request or file an issue!
 | [0151-reverse-words-in-a-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -184,6 +185,7 @@ Open a pull request or file an issue!
 | [0151-reverse-words-in-a-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2032-largest-odd-number-in-string) |
