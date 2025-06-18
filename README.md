@@ -150,6 +150,7 @@ Open a pull request or file an issue!
 | ------- |
 | [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -160,6 +161,7 @@ Open a pull request or file an issue!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -174,6 +176,7 @@ Open a pull request or file an issue!
 | ------- |
 | [0125-valid-palindrome](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
