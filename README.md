@@ -135,6 +135,7 @@ Open a pull request or file an issue!
 | [0151-reverse-words-in-a-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,4 +184,5 @@ Open a pull request or file an issue!
 | [0242-valid-anagram](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0742-to-lower-case) |
+| [1894-merge-strings-alternately](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
