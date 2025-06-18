@@ -186,6 +186,7 @@ Open a pull request or file an issue!
 | [0242-valid-anagram](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0686-repeated-string-match](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -193,4 +194,8 @@ Open a pull request or file an issue!
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
