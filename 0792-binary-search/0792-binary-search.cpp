@@ -16,21 +16,37 @@ public:
         // }
         // return -1;
 
-        int n = nums.size();
+        // int n = nums.size();
+        // int low =0;
+        // int high = n-1;
+        // while(low<= high){
+        //     int mid= low+(high-low)/2;
+        //     if(nums[mid] == target) return mid;
 
-        int low =0;
+        //     else if(nums[mid] < target){
+        //         low = mid + 1;
+        //     }
+        //     else{
+        //         high = mid-1;
+        //     }
+
+        // }
+        // return -1;
+
+        int n= nums.size();
+        int low=0;
         int high = n-1;
-        while(low<= high){
-            int mid= low+(high-low)/2;
+
+        
+        while(low<=high){
+            int mid = low+(high-low)/2;
             if(nums[mid] == target) return mid;
 
-            else if(nums[mid] < target){
-                low = mid + 1;
-            }
-            else{
-                high = mid-1;
-            }
+            else if(nums[mid] < target)
+            low= mid+1;
 
+            else
+            high= mid-1;
         }
         return -1;
     }
