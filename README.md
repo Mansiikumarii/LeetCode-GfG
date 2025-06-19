@@ -145,6 +145,7 @@ Open a pull request or file an issue!
 | [0035-search-insert-position](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -202,4 +203,8 @@ Open a pull request or file an issue!
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0686-repeated-string-match) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
