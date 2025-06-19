@@ -118,6 +118,7 @@ Open a pull request or file an issue!
 | [0485-max-consecutive-ones](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -148,6 +149,7 @@ Open a pull request or file an issue!
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
