@@ -38,6 +38,7 @@ This repo is actively maintained. More problems coming soon!
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Binary Search
@@ -52,6 +53,7 @@ This repo is actively maintained. More problems coming soon!
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
