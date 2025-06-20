@@ -1,23 +1,23 @@
 class Solution {
 public:
-    bool possible(vector<int>& weights, int limit, int days) {
+    bool possible(vector<int>& nums, int limit, int k) {
+        int subarray = 1;  // start with 1 subarray
         int sum = 0;
-        int timetaken = 0;
-        int n = weights.size();
 
-        for (int i = 0; i < n; i++) {
-            if (sum + weights[i] > limit) {
-                timetaken++;
+        for (int i = 0; i < nums.size(); i++) {
+            if (sum + nums[i] > limit) {
+                subarray++;
                 sum = 0;
             }
-            sum += weights[i];
+            sum += nums[i];
         }
-        return timetaken + 1 <= days; // +1 because the last split counts too
+
+        return subarray <= k;
     }
 
     int splitArray(vector<int>& nums, int k) {
         int low = *max_element(nums.begin(), nums.end());
-        int high = accumulate(nums.begin(), nums.end(), 0); // typo: "accumlate"
+        int high = accumulate(nums.begin(), nums.end(), 0);
 
         int ans = high;
 
@@ -31,6 +31,7 @@ public:
                 low = mid + 1;
             }
         }
+
         return ans;
     }
 };
