@@ -38,6 +38,7 @@ This repo is actively maintained. More problems coming soon!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -59,6 +60,7 @@ This repo is actively maintained. More problems coming soon!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
@@ -78,6 +80,7 @@ This repo is actively maintained. More problems coming soon!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
