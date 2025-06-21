@@ -46,6 +46,7 @@ This repo is actively maintained. More problems coming soon!
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
@@ -97,8 +98,14 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
