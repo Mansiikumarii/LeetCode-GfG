@@ -41,6 +41,7 @@ This repo is actively maintained. More problems coming soon!
 | [0011-container-with-most-water](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -116,4 +117,8 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
