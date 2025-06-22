@@ -93,6 +93,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ This repo is actively maintained. More problems coming soon!
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Hash Table
 |  |
 | ------- |
