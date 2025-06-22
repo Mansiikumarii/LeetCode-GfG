@@ -45,6 +45,7 @@ This repo is actively maintained. More problems coming soon!
 | [0162-find-peak-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@ This repo is actively maintained. More problems coming soon!
 | [0162-find-peak-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -96,10 +98,12 @@ This repo is actively maintained. More problems coming soon!
 | [0011-container-with-most-water](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -111,6 +115,7 @@ This repo is actively maintained. More problems coming soon!
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Counting
