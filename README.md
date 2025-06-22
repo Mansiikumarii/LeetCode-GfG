@@ -47,6 +47,7 @@ This repo is actively maintained. More problems coming soon!
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0414-third-maximum-number) |
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -104,6 +105,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
