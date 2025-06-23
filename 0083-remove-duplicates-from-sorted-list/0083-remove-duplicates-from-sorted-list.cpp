@@ -20,9 +20,10 @@ public:
 
             if(curr->val == curr->next->val){
                 curr->next = curr->next->next;
+            
             }
             else{
-                curr = curr->next;
+                curr = curr->next; //jis point pe wo equal na ho tab age badhao
             }
 
         }
