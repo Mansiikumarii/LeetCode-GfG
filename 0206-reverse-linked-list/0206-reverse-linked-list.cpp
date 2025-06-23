@@ -14,8 +14,8 @@ public:
         ListNode *curr = head;
         ListNode *prev = NULL;
         while(curr){
-            ListNode *nextNode = curr->next;
-            curr->next = prev;
+            ListNode *nextNode = curr->next; 
+            curr->next = prev; //jo peeche likha hai wo next main first pe likh do
             prev = curr;
             curr = nextNode;
         }
