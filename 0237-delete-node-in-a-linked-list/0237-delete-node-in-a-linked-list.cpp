@@ -11,7 +11,10 @@ public:
     void deleteNode(ListNode* node) {
         if(node->next == nullptr) delete(node);
 
+        ListNode* temp= node->next;
         node->val = node->next->val;
         node->next = node->next->next;
+
+        delete(temp);
     }
 };
