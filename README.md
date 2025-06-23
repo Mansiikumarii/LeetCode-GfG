@@ -102,6 +102,7 @@ This repo is actively maintained. More problems coming soon!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -123,6 +124,7 @@ This repo is actively maintained. More problems coming soon!
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -140,6 +142,7 @@ This repo is actively maintained. More problems coming soon!
 | [0061-rotate-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
