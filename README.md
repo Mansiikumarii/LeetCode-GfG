@@ -136,10 +136,12 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
