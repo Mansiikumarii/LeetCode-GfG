@@ -17,11 +17,15 @@ public:
             if(slow == fast ) break; //linked ke andar cycle hai
         }
         if(fast == NULL or fast->next == NULL) return NULL; //cycle nahi hai
-        slow = head;
+        //yahan or hai agar dono main koi ek null hoga toh condistion true hogi
+        slow = head; // slow pointer ko starting pe le ao
+        //ek ek step se padhao
         while(slow != fast){
             slow = slow->next;
             fast = fast->next;
         }
         return slow;
+
+        //Linked List Cycle 2 proof
     }
 };
