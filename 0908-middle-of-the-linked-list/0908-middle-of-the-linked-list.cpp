@@ -11,12 +11,24 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode *slow = head;
-        ListNode *fast = head;
-        while(fast and fast->next){ //agar fast null hogaya toh age check nahi karega compiler
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-        return slow;
+        // ListNode *slow = head;
+        // ListNode *fast = head;
+        // while(fast and fast->next){ //agar fast null hogaya toh age check nahi karega compiler
+        //     slow = slow->next;
+        //     fast = fast->next->next;
+        // }
+        // return slow;
+
+
+
+
+
+    ListNode *slow=head;
+    ListNode *fast=head;
+    while(fast and fast->next){
+        slow = slow->next;
+        fast = fast->next->next;
+    }
+    return slow;
     }
 };
