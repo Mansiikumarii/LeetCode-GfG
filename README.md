@@ -4,7 +4,7 @@ Welcome to the **LeetCode-GfG** repository! 🚀
 A neatly organized collection of coding solutions for problems from **LeetCode** and **GeeksforGeeks**—solved, tested, and time-stamped for future reference.  
 
 [![LeetHub Sync](https://img.shields.io/badge/LeetHub-Auto--Sync-blue.svg)](#)
-[![Total Problems](https://img.shields.io/badge/Problems–300+-brightgreen.svg)](#)
+[![Total Problems](https://img.shields.io/badge/Problems–400+-brightgreen.svg)](#)
 [![Last Commit](https://img.shields.io/github/last-commit/Mansiiiiiiiiiiiiiiiii/LeetCode-GfG.svg)](#)
 
 ## 📌 What's Inside?
