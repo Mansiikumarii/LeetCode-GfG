@@ -92,6 +92,7 @@ This repo is actively maintained. More problems coming soon!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -168,5 +169,6 @@ This repo is actively maintained. More problems coming soon!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
