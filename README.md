@@ -96,6 +96,7 @@ This repo is actively maintained. More problems coming soon!
 | [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
@@ -175,6 +176,7 @@ This repo is actively maintained. More problems coming soon!
 | [0155-min-stack](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
