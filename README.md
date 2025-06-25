@@ -135,6 +135,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -158,6 +159,7 @@ This repo is actively maintained. More problems coming soon!
 | [0092-reverse-linked-list-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -183,6 +185,7 @@ This repo is actively maintained. More problems coming soon!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -197,4 +200,8 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
