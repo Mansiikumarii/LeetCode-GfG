@@ -7,22 +7,47 @@ using namespace std;
 
 class Solution {
   public:
-  void solve(int src, vector<vector<int>>& adj, vector<int>& vis, vector<int>& ans) {
-      ans.push_back(src);
-      vis[src] = 1;
-      for(auto it : adj[src]) {
-          if(vis[it] == 0) {
-              solve(it, adj, vis, ans);
-          }
-      }
-  }
+//   void solve(int src, vector<vector<int>>& adj, vector<int>& vis, vector<int>& ans) {
+//       ans.push_back(src);
+//       vis[src] = 1;
+//       for(auto it : adj[src]) {
+//           if(vis[it] == 0) {
+//               solve(it, adj, vis, ans);
+//           }
+//       }
+//   }
 
+void dfsHelper(vector<vector<int>>& adj, vector<bool>&vis, vector<int>&ans, int u){
+    vis[u] = true;
+    ans.push_back(u);
+    
+    //travel karna hai
+    for(auto padosi: adj[u]){
+        //adj[u] main travel 
+        if(!vis[padosi]){
+            dfsHelper(adj, vis, ans, padosi);
+        }
+    }
+}
   vector<int> dfs(vector<vector<int>>& adj) {
-      int v = adj.size(); // Number of vertices
-      vector<int> vis(v, 0);
-      vector<int> ans;
-      solve(0, adj, vis, ans); // Start DFS from node 0
-      return ans;
+    //   int v = adj.size(); // Number of vertices
+    //   vector<int> vis(v, 0);
+    //   vector<int> ans;
+    //   solve(0, adj, vis, ans); // Start DFS from node 0
+    //   return ans;
+    
+    
+    int n= adj.size(); //number of nodes
+    vector<bool>vis(n,false);
+    vector<int>ans;
+    
+    for(int i=0; i<n ; i++){ //there is chance ki forest ho sakta hai
+        if(!vis[i]){
+            dfsHelper(adj,vis,ans,i);
+        }
+    }
+    return ans;
+    
   }
 };
 
