@@ -216,6 +216,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,9 +227,18 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
