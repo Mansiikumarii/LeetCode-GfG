@@ -40,6 +40,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0162-find-peak-element) |
@@ -209,6 +210,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
@@ -221,6 +223,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
@@ -232,6 +235,7 @@ This repo is actively maintained. More problems coming soon!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Union Find
 |  |
@@ -241,4 +245,8 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
