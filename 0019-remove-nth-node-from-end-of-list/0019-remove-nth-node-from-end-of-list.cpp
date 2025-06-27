@@ -40,28 +40,33 @@ public:
     // temp->next = temp->next->next;
     // delete delNode;
     // return head;
+
+
+
+
 ListNode* dummy = new ListNode(0,head);
 ListNode* fast = dummy;
 ListNode* slow = dummy;
 
-
-for(int i=0; i<= n; i++){
+// Move fast pointer n+1 steps ahead to maintain a gap
+for(int i=0; i<=n; i++){
     fast = fast->next;
 }
 
- // Move both fast and slow until fast reaches the end
+// Move both pointers until fast reaches the end
 while(fast != NULL){
-    slow = slow->next;
     fast = fast->next;
+    slow = slow->next;
 }
-// Now slow->next is the node to be deleted
+
+// Remove the node
 ListNode* delNode = slow->next;
-slow->next= slow->next->next;
+slow->next = slow->next->next;
 delete delNode;
 
 ListNode* newHead = dummy->next;
 delete dummy;
-return newHead;
 
+return newHead;
     }  
 };
