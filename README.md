@@ -219,6 +219,7 @@ This repo is actively maintained. More problems coming soon!
 | [0102-binary-tree-level-order-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,6 +232,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -245,8 +247,17 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
