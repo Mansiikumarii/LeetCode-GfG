@@ -36,29 +36,28 @@ public:
         //     flag = !flag; // Toggle the direction
         // }
         // return ans;
-vector<vector<int>>result;
+
+vector<vector<int>> result;
 if(root == NULL)
 return result;
-
-queue<TreeNode* >q;
-q.push(root);
 bool LeftToRight = true;
 
-
+queue<TreeNode *>q;
+q.push(root);
 while(!q.empty()){
-    int size = q.size();
+    int size= q.size();
     vector<int> row(size);
     for(int i=0; i<size; i++){
         TreeNode* node = q.front();
         q.pop();
 
-        //find the position of node
-        int index = LeftToRight?i:size-1-i;
+        int index = LeftToRight? i: size-1-i;
         row[index] = node->val;
         if(node->left)
         q.push(node->left);
         if(node->right)
         q.push(node->right);
+
     }
     LeftToRight = !LeftToRight;
     result.push_back(row);
