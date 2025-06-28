@@ -12,29 +12,57 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>> ans;
-        if (root == NULL) return ans;
+        // vector<vector<int>> ans;
+        // if (root == NULL) return ans;
         
-        queue<TreeNode*> q;
-        q.push(root);
-        bool flag = true; // true: left to right, false: right to left
+        // queue<TreeNode*> q;
+        // q.push(root);
+        // bool flag = true; // true: left to right, false: right to left
         
-        while (!q.empty()) {
-            int size = q.size();
-            vector<int> temp;
-            for (int i = 0; i < size; ++i) {
-                TreeNode* node = q.front();
-                q.pop();
-                temp.push_back(node->val);
-                if (node->left) q.push(node->left);
-                if (node->right) q.push(node->right);
-            }
-            if (!flag) {
-                reverse(temp.begin(), temp.end());
-            }
-            ans.push_back(temp);
-            flag = !flag; // Toggle the direction
-        }
-        return ans;
+        // while (!q.empty()) {
+        //     int size = q.size();
+        //     vector<int> temp;
+        //     for (int i = 0; i < size; ++i) {
+        //         TreeNode* node = q.front();
+        //         q.pop();
+        //         temp.push_back(node->val);
+        //         if (node->left) q.push(node->left);
+        //         if (node->right) q.push(node->right);
+        //     }
+        //     if (!flag) {
+        //         reverse(temp.begin(), temp.end());
+        //     }
+        //     ans.push_back(temp);
+        //     flag = !flag; // Toggle the direction
+        // }
+        // return ans;
+vector<vector<int>>result;
+if(root == NULL)
+return result;
+
+queue<TreeNode* >q;
+q.push(root);
+bool LeftToRight = true;
+
+
+while(!q.empty()){
+    int size = q.size();
+    vector<int> row(size);
+    for(int i=0; i<size; i++){
+        TreeNode* node = q.front();
+        q.pop();
+
+        //find the position of node
+        int index = LeftToRight?i:size-1-i;
+        row[index] = node->val;
+        if(node->left)
+        q.push(node->left);
+        if(node->right)
+        q.push(node->right);
+    }
+    LeftToRight = !LeftToRight;
+    result.push_back(row);
+}
+return result;
     }
 };
