@@ -54,6 +54,7 @@ This repo is actively maintained. More problems coming soon!
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -220,6 +221,7 @@ This repo is actively maintained. More problems coming soon!
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,4 +262,8 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
