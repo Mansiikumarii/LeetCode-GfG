@@ -37,31 +37,59 @@ public:
         // }
         // return ans;
 
-vector<vector<int>> result;
-if(root == NULL)
-return result;
-bool LeftToRight = true;
+// vector<vector<int>> result;
+// if(root == NULL)
+// return result;
+// bool LeftToRight = true;
 
-queue<TreeNode *>q;
-q.push(root);
-while(!q.empty()){
-    int size= q.size();
-    vector<int> row(size);
-    for(int i=0; i<size; i++){
-        TreeNode* node = q.front();
-        q.pop();
+// queue<TreeNode *>q;
+// q.push(root);
+// while(!q.empty()){
+//     int size= q.size();
+//     vector<int> row(size);
+//     for(int i=0; i<size; i++){
+//         TreeNode* node = q.front();
+//         q.pop();
 
-        int index = LeftToRight? i: size-1-i;
-        row[index] = node->val;
-        if(node->left)
-        q.push(node->left);
-        if(node->right)
-        q.push(node->right);
+//         int index = LeftToRight? i: size-1-i;
+//         row[index] = node->val;
+//         if(node->left)
+//         q.push(node->left);
+//         if(node->right)
+//         q.push(node->right);
 
-    }
-    LeftToRight = !LeftToRight;
-    result.push_back(row);
-}
-return result;
+//     }
+//     LeftToRight = !LeftToRight;
+//     result.push_back(row);
+// }
+// return result;
+
+ vector<vector<int>>ans;
+        if(!root) return ans;
+ 
+        queue<TreeNode*>q;
+        q.push(root);
+ 
+        while(!q.empty()){
+            int n = q.size();
+            vector<int>temp;
+ 
+            for(int i = 0; i < n; i++){
+ 
+                TreeNode* u = q.front();
+                temp.push_back(u->val);
+                q.pop();
+ 
+                if(u->left) q.push(u->left);
+                if(u->right) q.push(u->right);
+            }
+            ans.push_back(temp);
+        }
+ 
+        for(int i = 0; i < ans.size(); i++){
+            if(i % 2 != 0) reverse(ans[i].begin(), ans[i].end());
+        }
+        return ans;
+        
     }
 };
