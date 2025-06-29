@@ -180,6 +180,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -215,6 +216,7 @@ This repo is actively maintained. More problems coming soon!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
@@ -234,11 +236,13 @@ This repo is actively maintained. More problems coming soon!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
