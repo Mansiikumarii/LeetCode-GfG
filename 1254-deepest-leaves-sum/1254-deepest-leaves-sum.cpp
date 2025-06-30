@@ -21,7 +21,7 @@ public:
         while(!q.empty()){
             int size = q.size();
             levelSum =0;
-            for(int i=0; i<size; ++i){
+            for(int i=0; i<size; i++){
                 TreeNode *node = q.front();
                 q.pop();
                 levelSum += node->val;
