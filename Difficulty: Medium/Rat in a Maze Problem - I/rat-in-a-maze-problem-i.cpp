@@ -1,89 +1,39 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-
-// User function template for C++
-
 class Solution {
-  public:
-  void solve(int i, int j, int n, int m, vector<vector<int>>& maze, vector<string>& ans,
-             vector<vector<int>>& vis, string path) {
-      if(i == n-1 && j == m-1){
-          ans.push_back(path);
-          return;
-      }
-      
-      vis[i][j] = 1;
-
-      // Up
-      if(i-1 >= 0 && maze[i-1][j] == 1 && vis[i-1][j] == 0){
-          solve(i-1, j, n, m, maze, ans, vis, path + 'U');
-      }
-      // Down
-      if(i+1 < n && maze[i+1][j] == 1 && vis[i+1][j] == 0){
-          solve(i+1, j, n, m, maze, ans, vis, path + 'D');
-      }
-      // Left
-      if(j-1 >= 0 && maze[i][j-1] == 1 && vis[i][j-1] == 0){
-          solve(i, j-1, n, m, maze, ans, vis, path + 'L');
-      }
-      // Right
-      if(j+1 < m && maze[i][j+1] == 1 && vis[i][j+1] == 0){
-          solve(i, j+1, n, m, maze, ans, vis, path + 'R');
-      }
-
-      vis[i][j] = 0; // backtrack
-  }
-
-  vector<string> ratInMaze(vector<vector<int>>& maze) {
-      vector<string> ans;
-      string path = "";
-      int n = maze.size();
-      int m = maze[0].size();
-      vector<vector<int>> vis(n, vector<int>(m, 0));
-      if(maze[0][0] == 0 || maze[n-1][m-1] == 0) return ans;
-      solve(0, 0, n, m, maze, ans, vis, path);
-      sort(ans.begin(), ans.end());
-      return ans;
-  }
-};
-
-
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    cin.ignore();
-    while (t--) {
-        int n;
-        cin >> n;
-        cin.ignore();
-
-        vector<vector<int>> mat(n, vector<int>(n));
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                cin >> mat[i][j];
-            }
+public:
+    void helper(vector<vector<int>>& mat, vector<vector<bool>>& vis, int r, int c, string path, set<string>& ans) {
+        int n = mat.size();
+        if (r < 0 || c < 0 || r >= n || c >= n || mat[r][c] == 0 || vis[r][c]) {
+            return;
         }
 
-        Solution obj;
-        vector<string> result = obj.ratInMaze(mat);
-        // sort(result.begin(), result.end());
+        if (r == n - 1 && c == n - 1) {
+            ans.insert(path);
+            return;
+        }
 
-        if (result.empty())
-            cout << "[]";
-        else
-            for (int i = 0; i < result.size(); i++)
-                cout << result[i] << " ";
-        cout << endl;
-        cout << "~" << endl;
+        vis[r][c] = true;
+
+        // Down
+        helper(mat, vis, r + 1, c, path + "D", ans);
+        // Up
+        helper(mat, vis, r - 1, c, path + "U", ans);
+        // Left
+        helper(mat, vis, r, c - 1, path + "L", ans);
+        // Right
+        helper(mat, vis, r, c + 1, path + "R", ans);
+
+        vis[r][c] = false;
     }
-    return 0;
-}
 
-// } Driver Code Ends
+    vector<string> ratInMaze(vector<vector<int>>& maze) {
+        int n = maze.size();
+        set<string> pathSet;
+        if (maze[0][0] == 0 || maze[n - 1][n - 1] == 0) return {};
+
+        vector<vector<bool>> vis(n, vector<bool>(n, false));
+        helper(maze, vis, 0, 0, "", pathSet);
+
+        // Convert set to vector
+        return vector<string>(pathSet.begin(), pathSet.end());
+    }
+};
