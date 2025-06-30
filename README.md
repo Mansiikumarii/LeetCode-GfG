@@ -227,6 +227,7 @@ This repo is actively maintained. More problems coming soon!
 | [0226-invert-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,6 +261,7 @@ This repo is actively maintained. More problems coming soon!
 | [0226-invert-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,6 +278,7 @@ This repo is actively maintained. More problems coming soon!
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
 | ------- |
