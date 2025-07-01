@@ -76,6 +76,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1013-fibonacci-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -177,6 +179,7 @@ This repo is actively maintained. More problems coming soon!
 | [0203-remove-linked-list-elements](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -317,4 +320,8 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
