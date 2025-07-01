@@ -15,7 +15,7 @@ public:
     //   }
     //   return b;
 
-   vector<int>dp(n+1,0);
+  
 if(n==0) return 0;
    if(n==1) return 1;
    int prevprev =0;
