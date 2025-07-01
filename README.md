@@ -62,6 +62,7 @@ This repo is actively maintained. More problems coming soon!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ This repo is actively maintained. More problems coming soon!
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Sorting
 |  |
 | ------- |
