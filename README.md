@@ -8,7 +8,7 @@ A neatly organized collection of coding solutions for problems from **LeetCode**
 [![Last Commit](https://img.shields.io/github/last-commit/Mansiiiiiiiiiiiiiiiii/LeetCode-GfG.svg)](#)
 
 ## 📌 What's Inside?
-- ✅ 150+ LeetCode Problems (Easy to Hard)
+- ✅ 200+ LeetCode Problems (Easy to Hard)
 - ✅ GfG Practice Questions
 - ✅ Optimized code with runtime & memory stats
 - ✅ Regular updates via LeetHub
