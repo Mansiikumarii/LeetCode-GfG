@@ -49,6 +49,7 @@ This repo is actively maintained. More problems coming soon!
 | [0198-house-robber](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0414-third-maximum-number) |
@@ -72,6 +73,7 @@ This repo is actively maintained. More problems coming soon!
 | [0162-find-peak-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -131,6 +133,7 @@ This repo is actively maintained. More problems coming soon!
 | [0160-intersection-of-two-linked-lists](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -170,6 +173,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Linked List
 |  |
