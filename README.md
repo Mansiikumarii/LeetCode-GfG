@@ -38,6 +38,7 @@ This repo is actively maintained. More problems coming soon!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -156,6 +157,7 @@ This repo is actively maintained. More problems coming soon!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0146-lru-cache) |
