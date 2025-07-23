@@ -4,11 +4,11 @@ Welcome to the **LeetCode-GfG** repository! 🚀
 A neatly organized collection of coding solutions for problems from **LeetCode** and **GeeksforGeeks**—solved, tested, and time-stamped for future reference.  
 
 [![LeetHub Sync](https://img.shields.io/badge/LeetHub-Auto--Sync-blue.svg)](#)
-[![Total Problems](https://img.shields.io/badge/Problems–200+-brightgreen.svg)](#)
+[![Total Problems](https://img.shields.io/badge/Problems–300+-brightgreen.svg)](#)
 [![Last Commit](https://img.shields.io/github/last-commit/Mansiiiiiiiiiiiiiiiii/LeetCode-GfG.svg)](#)
 
 ## 📌 What's Inside?
-- ✅ 200+ LeetCode Problems (Easy to Hard)
+- ✅ 300+ LeetCode Problems (Easy to Hard)
 - ✅ GfG Practice Questions
 - ✅ Optimized code with runtime & memory stats
 - ✅ Regular updates via LeetHub
