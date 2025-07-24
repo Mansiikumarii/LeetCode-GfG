@@ -21,6 +21,7 @@ int height(TreeNode* node){
     int ans= max(leftheight, rightheight)+1;
     return ans;
 }
+
     bool isBalanced(TreeNode* root) {
         if(root == NULL)
         return true;
