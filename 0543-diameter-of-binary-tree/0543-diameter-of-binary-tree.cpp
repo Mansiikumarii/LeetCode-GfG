@@ -11,19 +11,20 @@
  */
 class Solution {
 public:
-int ans=0;
-int helper(TreeNode* root){
-    if (root == NULL) return 0;
-    int lh= helper(root->left);
-    int rh = helper(root->right);
+ int maxDiameter = 0; // declare as class member
 
-    ans = max(ans, lh + rh);        // Update the diameter
-        return 1 + max(lh, rh); 
+int height(struct TreeNode* node){
+    if (node == NULL)
+    return -1;
+
+    int leftheight = height(node->left);
+    int rightheight = height(node->right);
+    maxDiameter = max(maxDiameter,leftheight+rightheight+2);
+
+    return max(leftheight, rightheight)+1;
 }
     int diameterOfBinaryTree(TreeNode* root) {
-       
-        helper(root);
-       
-        return ans;
+        height(root);
+        return maxDiameter;
     }
 };
