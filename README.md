@@ -72,6 +72,7 @@ This repo is actively maintained. More problems coming soon!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Binary Search
