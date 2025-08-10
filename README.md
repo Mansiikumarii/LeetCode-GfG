@@ -48,6 +48,7 @@ This repo is actively maintained. More problems coming soon!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ This repo is actively maintained. More problems coming soon!
 | [0070-climbing-stairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0337-house-robber-iii) |
