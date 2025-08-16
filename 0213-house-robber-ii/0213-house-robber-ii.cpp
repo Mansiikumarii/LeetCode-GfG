@@ -1,25 +1,34 @@
 class Solution {
 public:
-    int solve(int i, int end, vector<int>& nums, vector<int>& dp) {
-        if (i > end) return 0;
-        if (dp[i] != -1) return dp[i];
+int solveTab(vector<int> & nums){
+    int n= nums.size();
 
-        int rob = nums[i] + solve(i + 2, end, nums, dp);
-        int skip = solve(i + 1, end, nums, dp);
+    int prev2 =0;
+    int prev1 = nums[0];
 
-        return dp[i] = max(rob, skip);
+    for(int i=1; i<n;i++){
+        int incl = prev2 + nums[i];
+        int excl = prev1 + 0;
+
+        int ans = max(incl, excl);
+        prev2 = prev1;
+        prev1 = ans;
     }
-
+    return prev1;
+}
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if (n == 1) return nums[0];
+        if(n==1)
+        return nums[0];
 
-        vector<int> dp1(n, -1);  // for range 0 to n-2
-        vector<int> dp2(n, -1);  // for range 1 to n-1
+        vector<int>first,second;
+        for(int i=0; i<n; i++){
+            if(i != n-1)
+            first.push_back(nums[i]);
 
-        int case1 = solve(0, n - 2, nums, dp1);  // exclude last house
-        int case2 = solve(1, n - 1, nums, dp2);  // exclude first house
-
-        return max(case1, case2);
+            if(i != 0)
+            second.push_back(nums[i]);
+        }
+        return max(solveTab(first), solveTab(second));
     }
 };
