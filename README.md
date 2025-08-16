@@ -53,6 +53,7 @@ This repo is actively maintained. More problems coming soon!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0283-move-zeroes) |
@@ -128,6 +129,7 @@ This repo is actively maintained. More problems coming soon!
 | [0168-excel-sheet-column-title](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -373,4 +375,12 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
