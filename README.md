@@ -132,6 +132,7 @@ This repo is actively maintained. More problems coming soon!
 | [0204-count-primes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2481-strictly-palindromic-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@ This repo is actively maintained. More problems coming soon!
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2481-strictly-palindromic-number) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Sorting
 |  |
@@ -383,4 +385,8 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
