@@ -1,48 +1,43 @@
 class Solution {
 public:
-// bool isAlphaNumeric(char c){
-// if((c >='0' && c<='9')|| (c>='a' && c<='z')|| (c>='A' && c<= 'Z')){
-//     return true;}
-//     return false;
-// }
-    bool isPalindrome(string s) {
-//         int start = 0, end = s.size() - 1;
-//         while(start<end){
-//            if (!isAlphaNumeric(s[start]))
-// {
-//                 start++; continue;
-//             }
-//            if (!isAlphaNumeric(s[end]))
-// {
-//                 end--; continue;
-//             } 
-//             if(tolower(s[start]) != tolower(s[end])){
-//                 return false;
-//             }
-//             start++;
-//              end--;
-        
-        
-//         }
-//         return true;
-//     }
-
-string temp = "";
-        for(auto x: s){
-            if(isalnum(x)) temp += tolower(x);
-        }
- 
-        int i = 0, j = temp.size() - 1;
- 
-        while(i < j){
-            if(temp[i] != temp[j]) return false;
- 
-            i++;
-            j--;
-        }
- 
+bool validchar(char ch){
+    if( (ch >= 'a' && ch<= 'z') || (ch >= 'A' && ch<= 'Z') || (ch>='0' && ch<= '9')){
         return true;
+    }
+    return false;
 }
+char toLowerCase(char ch){
+    if(ch >= 'A' && ch<= 'Z'){
+        return ch-'A'+'a';
+    }
+    return ch;
+}
+bool checkPalindrome(string a){
+    int s=0, e= a.length()-1;
+    while(s<=e){
+        if(a[s] != a[e]){
+            return false;
+        }
+        else{
+            s++;
+            e--;
+        }
+        
+    }
+    return true;
+}
+    bool isPalindrome(string s) {
+        //faltu ke character hata do
+        string temp = "";
+        for(int j=0; j<s.length(); j++){
+            if(validchar(s[j])){
+                temp.push_back(s[j]);
+            }
+        }
+        //to lower case main kar do
+        for(int j=0; j<temp.length(); j++){
+            temp[j] = toLowerCase(temp[j]);
+        }
+        return checkPalindrome(temp);
+    }
 };
-
-    
