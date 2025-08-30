@@ -143,6 +143,7 @@ This repo is actively maintained. More problems coming soon!
 | [0344-reverse-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,6 +243,7 @@ This repo is actively maintained. More problems coming soon!
 | [0496-next-greater-element-i](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -259,6 +261,7 @@ This repo is actively maintained. More problems coming soon!
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Doubly-Linked List
 |  |
