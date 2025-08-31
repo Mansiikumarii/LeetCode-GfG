@@ -9,7 +9,7 @@ public:
         int mid= start+(end-start)/2;
 
         while(start<=end){
-            int element = matrix[mid/col][mid%col];
+            int element = matrix[mid/col][mid%col]; //main step
 
             if(element == target){
                 return 1;
