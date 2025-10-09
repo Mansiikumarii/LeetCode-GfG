@@ -12,84 +12,40 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        // vector<vector<int>> ans;
-        // if (root == NULL) return ans;
-        
-        // queue<TreeNode*> q;
-        // q.push(root);
-        // bool flag = true; // true: left to right, false: right to left
-        
-        // while (!q.empty()) {
-        //     int size = q.size();
-        //     vector<int> temp;
-        //     for (int i = 0; i < size; ++i) {
-        //         TreeNode* node = q.front();
-        //         q.pop();
-        //         temp.push_back(node->val);
-        //         if (node->left) q.push(node->left);
-        //         if (node->right) q.push(node->right);
-        //     }
-        //     if (!flag) {
-        //         reverse(temp.begin(), temp.end());
-        //     }
-        //     ans.push_back(temp);
-        //     flag = !flag; // Toggle the direction
-        // }
-        // return ans;
+        vector<vector<int>> result;
+        if(root == NULL)
+        return result;
 
-// vector<vector<int>> result;
-// if(root == NULL)
-// return result;
-// bool LeftToRight = true;
-
-// queue<TreeNode *>q;
-// q.push(root);
-// while(!q.empty()){
-//     int size= q.size();
-//     vector<int> row(size);
-//     for(int i=0; i<size; i++){
-//         TreeNode* node = q.front();
-//         q.pop();
-
-//         int index = LeftToRight? i: size-1-i;
-//         row[index] = node->val;
-//         if(node->left)
-//         q.push(node->left);
-//         if(node->right)
-//         q.push(node->right);
-
-//     }
-//     LeftToRight = !LeftToRight;
-//     result.push_back(row);
-// }
-// return result;
-
- vector<vector<int>>ans;
-        if(!root) return ans;
- 
         queue<TreeNode*>q;
         q.push(root);
- 
+
+        bool leftToRight = true;
         while(!q.empty()){
-            int n = q.size();
-            vector<int>temp;
- 
-            for(int i = 0; i < n; i++){
- 
-                TreeNode* u = q.front();
-                temp.push_back(u->val);
+            //queue ko process karna hai
+            int size = q.size();
+            vector<int>ans(size);
+            for(int i=0; i<size; i++){
+                TreeNode* frontNode = q.front();
                 q.pop();
- 
-                if(u->left) q.push(u->left);
-                if(u->right) q.push(u->right);
-            }
-            ans.push_back(temp);
+
+                //normal insert or reverse insert
+                int index = leftToRight ? i: size-i-1;
+                ans[index] = frontNode ->val;
+
+                if(frontNode ->left){
+                    q.push(frontNode->left);
+                }
+                if(frontNode ->right){
+                    q.push(frontNode->right);
+                }
+                
+                    
+                
         }
- 
-        for(int i = 0; i < ans.size(); i++){
-            if(i % 2 != 0) reverse(ans[i].begin(), ans[i].end());
+            result.push_back(ans);
+            leftToRight = !leftToRight;
+            
         }
-        return ans;
-        
+        return result;
     }
 };
