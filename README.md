@@ -92,6 +92,7 @@ This repo is actively maintained. More problems coming soon!
 | [0162-find-peak-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -216,6 +217,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Linked List
@@ -297,6 +299,7 @@ This repo is actively maintained. More problems coming soon!
 | [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -336,6 +339,7 @@ This repo is actively maintained. More problems coming soon!
 | [0144-binary-tree-preorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0543-diameter-of-binary-tree) |
