@@ -11,15 +11,16 @@
  */
 class Solution {
 public:
-void solve(TreeNode *root, vector<int>&ans){ //by referance pass kiya kyunki jo func traverse kiya wahi func reflect ho
-    if(root == NULL) return ;
-    ans.push_back(root->val);
-    solve(root->left,ans);
-    solve(root->right,ans);
-}
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int>ans;
-        solve(root,ans);
-        return ans;
+        if(root == nullptr)
+        return {};
+
+        vector<int> r ;
+        r.push_back(root->val);
+        vector<int> left = preorderTraversal(root->left);
+        r.insert(r.end(),left.begin(),left.end());
+        vector<int>right = preorderTraversal(root->right);
+        r.insert(r.end(),right.begin(),right.end());
+        return r;
     }
 };
