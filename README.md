@@ -185,6 +185,7 @@ This repo is actively maintained. More problems coming soon!
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Sliding Window
 |  |
@@ -207,6 +208,7 @@ This repo is actively maintained. More problems coming soon!
 | [0496-next-greater-element-i](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1319-unique-number-of-occurrences](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Counting
@@ -303,6 +305,7 @@ This repo is actively maintained. More problems coming soon!
 | [0226-invert-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -320,6 +323,7 @@ This repo is actively maintained. More problems coming soon!
 | [0226-invert-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
@@ -343,6 +347,7 @@ This repo is actively maintained. More problems coming soon!
 | [0226-invert-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -364,6 +369,7 @@ This repo is actively maintained. More problems coming soon!
 | [0543-diameter-of-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
