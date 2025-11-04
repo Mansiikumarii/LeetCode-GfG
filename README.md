@@ -62,6 +62,7 @@ This repo is actively maintained. More problems coming soon!
 | [0240-search-a-2d-matrix-ii](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0414-third-maximum-number) |
@@ -110,6 +111,7 @@ This repo is actively maintained. More problems coming soon!
 | [0152-maximum-product-subarray](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0747-min-cost-climbing-stairs) |
@@ -321,6 +323,7 @@ This repo is actively maintained. More problems coming soon!
 | [0112-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
