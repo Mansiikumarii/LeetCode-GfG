@@ -45,6 +45,7 @@ This repo is actively maintained. More problems coming soon!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -204,6 +205,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0146-lru-cache) |
@@ -410,6 +412,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0048-rotate-image](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0240-search-a-2d-matrix-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
