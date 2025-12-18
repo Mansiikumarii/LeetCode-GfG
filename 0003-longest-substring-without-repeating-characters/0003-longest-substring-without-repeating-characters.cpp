@@ -1,29 +1,19 @@
-#include <unordered_set>
-#include <string>
-#include <algorithm>
-using namespace std;
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-     int left=0, right=0;
-        unordered_set<char> seen;
-        int maxLength = 0;
-        
-        while(right < s.length()){
-            char c = s[right];
-            if(seen.insert(c).second){
-                maxLength = max(maxLength , right-left+1);
-                right++;
-            }
-            else{
-                while(s[left] != c){
-                    seen.erase(s[left]);
-                    left++;
-                }
-                seen.erase(c);
-                left++;
-            }
+        int n = s.size();
+        int maxlen = 0;
+       for(int i=0; i<n; i++){
+        bool hash[256] = {false};
+        for(int j=i; j<n; j++){
+            if(hash[s[j]])
+            break;
+            hash[s[j]] = true;
+            int len = j-i+1;
+            maxlen = max(len , maxlen);
+            
         }
-    return maxLength;    
+       } 
+       return maxlen;
     }
 };
