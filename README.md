@@ -443,4 +443,5 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0177-nth-highest-salary) |
+| [0182-duplicate-emails](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
