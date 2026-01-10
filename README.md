@@ -439,4 +439,8 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2481-strictly-palindromic-number) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
