@@ -270,6 +270,7 @@ This repo is actively maintained. More problems coming soon!
 | [0155-min-stack](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0901-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -278,10 +279,12 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0146-lru-cache](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0901-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Queue
 |  |
@@ -445,4 +448,8 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0182-duplicate-emails) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
