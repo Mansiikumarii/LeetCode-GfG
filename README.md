@@ -109,6 +109,7 @@ This repo is actively maintained. More problems coming soon!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -141,6 +142,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -452,4 +454,8 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0901-online-stock-span) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
