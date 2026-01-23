@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1">Check if array is sorted</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr[]</strong>, check whether it is sorted in <strong>non-decreasing</strong> order. Return </span><span style="font-size: 18px;"><strong>true</strong> if it is sorted otherwise <strong>false</strong>.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1">Check if array is sorted</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr[]</strong>, check whether it is sorted in non-decreasing order. Return </span><span style="font-size: 18px;">true if it is sorted otherwise false.</span></p>
 <p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [10, 20, 30, 40, 50]
 <strong>Output:</strong> true
