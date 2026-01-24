@@ -61,6 +61,7 @@ This repo is actively maintained. More problems coming soon!
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0322-coin-change) |
@@ -99,6 +100,7 @@ This repo is actively maintained. More problems coming soon!
 | [0209-minimum-size-subarray-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -148,6 +150,7 @@ This repo is actively maintained. More problems coming soon!
 | [0171-excel-sheet-column-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2481-strictly-palindromic-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2481-strictly-palindromic-number) |
@@ -193,6 +196,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -219,6 +223,7 @@ This repo is actively maintained. More problems coming soon!
 | [0142-linked-list-cycle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0567-permutation-in-string) |
@@ -235,6 +240,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0136-single-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Linked List
