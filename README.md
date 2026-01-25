@@ -78,6 +78,7 @@ This repo is actively maintained. More problems coming soon!
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
