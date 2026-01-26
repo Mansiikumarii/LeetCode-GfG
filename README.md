@@ -144,6 +144,7 @@ This repo is actively maintained. More problems coming soon!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0070-climbing-stairs) |
