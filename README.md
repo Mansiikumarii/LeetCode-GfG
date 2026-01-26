@@ -162,6 +162,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0168-excel-sheet-column-title) |
