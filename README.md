@@ -85,6 +85,7 @@ This repo is actively maintained. More problems coming soon!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1512-number-of-good-pairs](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1512-number-of-good-pairs) |
 | [1603-running-sum-of-1d-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -155,6 +156,7 @@ This repo is actively maintained. More problems coming soon!
 | [0268-missing-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1512-number-of-good-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -236,10 +238,12 @@ This repo is actively maintained. More problems coming soon!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1319-unique-number-of-occurrences](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1512-number-of-good-pairs](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
