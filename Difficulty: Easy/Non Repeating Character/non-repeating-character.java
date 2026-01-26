@@ -1,24 +1,18 @@
 class Solution {
-    static final int MAX_CHAR = 26;
     public char nonRepeatingChar(String s) {
         // code here
-        int[] vis = new int[MAX_CHAR];
-        Arrays.fill(vis,-1);
-        
-        for(int i=0; i<s.length();i++){
-            int index = s.charAt(i)-'a';
-            if(vis[index] == -1){
-                vis[index] = i;
+        int n= s.length();
+        for(int i=0; i<n;++i){
+            boolean found = false;
+            for(int j=0; j<n;++j){
+                if(i != j && s.charAt(i) == s.charAt(j)){
+                    found = true;
+                    break;
+                }
             }
-            else{
-                vis[index] = -2;
-            }
+            if(!found)
+            return s.charAt(i);
         }
-        int idx = -1;
-        for(int i=0; i<MAX_CHAR;i++){
-            if(vis[i]>=0 &&(idx == -1 || vis[i]<vis[idx] ))
-            idx = i;
-        }
-        return (idx == -1)? '$': s.charAt(vis[idx]);
+        return '$';
     }
 }
