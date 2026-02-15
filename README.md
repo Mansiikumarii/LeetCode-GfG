@@ -44,6 +44,7 @@ This repo is actively maintained. More problems coming soon!
 | [0033-search-in-rotated-sorted-array](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0074-search-a-2d-matrix) |
@@ -165,6 +166,7 @@ This repo is actively maintained. More problems coming soon!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -202,6 +204,7 @@ This repo is actively maintained. More problems coming soon!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0242-valid-anagram) |
@@ -227,6 +230,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0001-two-sum](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
