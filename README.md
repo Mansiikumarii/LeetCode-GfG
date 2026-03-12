@@ -75,6 +75,7 @@ This repo is actively maintained. More problems coming soon!
 | [0496-next-greater-element-i](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0747-min-cost-climbing-stairs) |
+| [0867-transpose-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -326,6 +327,7 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0867-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Doubly-Linked List
@@ -458,6 +460,7 @@ This repo is actively maintained. More problems coming soon!
 | [0073-set-matrix-zeroes](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0867-transpose-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Memoization
 |  |
