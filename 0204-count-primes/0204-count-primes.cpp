@@ -7,7 +7,7 @@ public:
         for(int i = 2; i < n; i++) {
             if(prime[i]) {
                 count++;
-                for(long long j = (long long)i * i; j < n; j += i) {
+                for(int j = i * 2; j < n; j += i) {
                     prime[j] = false;
                 }
             }
