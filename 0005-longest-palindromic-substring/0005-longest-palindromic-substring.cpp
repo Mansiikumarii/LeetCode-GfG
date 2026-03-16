@@ -1,41 +1,49 @@
-#include <iostream>
-#include <string>
-#include <algorithm>
-using namespace std;
 class Solution {
 public:
-    // Helper function to expand around the center and check for longest palindrome
-    string expandAroundCenter(const string& s, int left, int right) {
-        while (left >= 0 && right < s.length() && s[left] == s[right]) {
-            left--;
-            right++;
-        }
-        // Return the palindrome substring
-        return s.substr(left + 1, right - left - 1);
-    }
-
-    // Main function to find the longest palindromic substring
     string longestPalindrome(string s) {
-        if (s.empty()) return "";
+        if(s.length()<=1)
+        return s;
+        int max_len = 1;
+        int n= s.length();
+        int st=0, e=0;
 
-        string longest = "";
-        
-        for (int i = 0; i < s.length(); ++i) {
-            // Odd-length palindrome (expand around the center)
-            string palindrome1 = expandAroundCenter(s, i, i);
-            if (palindrome1.length() > longest.length()) {
-                longest = palindrome1;
+        //odd length
+        for(int i=0; i<n; i++){
+            int l=i, r=i;
+            while(l>= 0 && r<n){
+                if(s[l] == s[r]){
+                    l--;
+                    r++;
+                }
+                else
+                break;
             }
-
-            // Even-length palindrome (expand around the center)
-            string palindrome2 = expandAroundCenter(s, i, i + 1);
-            if (palindrome2.length() > longest.length()) {
-                longest = palindrome2;
+            int len = r-l-1;
+            if(len > max_len){
+                max_len = len;
+                st = l+1;
+                e= r-1;
             }
         }
-        
-        return longest;
+        //Even length
+        for(int i=0; i<n-1; i++){
+            int l=i, r = i+1;
+            while(l>= 0 && r<n){
+                if(s[l] == s[r]){
+                    l--;
+                    r++;
+
+                }
+                else
+                break;
+            }
+            int len = r-l-1;
+            if(len > max_len){
+                max_len = len;
+                st = l+1;
+                e = r-1;
+            }
+        }
+        return s.substr(st,max_len);
     }
 };
-
-
