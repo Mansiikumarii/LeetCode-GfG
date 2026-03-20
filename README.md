@@ -100,6 +100,7 @@ This repo is actively maintained. More problems coming soon!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -155,6 +156,7 @@ This repo is actively maintained. More problems coming soon!
 | [0013-roman-to-integer](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode/tree/master/0171-excel-sheet-column-number) |
