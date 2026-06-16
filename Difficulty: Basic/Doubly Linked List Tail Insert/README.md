@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/doubly-linked-list-tail-insert/1">Doubly Linked List Tail Insert</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given a <strong>doubly linked list</strong> of size<strong> n</strong>, insert an element<strong> data after </strong>the tail. The driver code will print the LinkedList both forward and then backward to verify the result.</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><span style="font-size: 18px;"><strong>Input:</strong><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/928529/Web/Other/blobid0_1779260668.webp" width="349" height="66"><br>data = 8
+<strong>Output: <br></strong>1 2 3 4 5 8
+8 5 4 3 2 1</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input:</strong><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/928529/Web/Other/blobid1_1779260688.webp" width="465" height="68"><br>data = 89
+<strong>Output: <br></strong>2 4 6 7 5 1 10 89<br>89 10 1 5 7 6 4 2</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ number of nodes ≤ 10^3</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>doubly-linked-list</code>&nbsp;<code>Data Structures</code>&nbsp;
