@@ -29,7 +29,7 @@ This repo is actively maintained. More problems coming soon!
 
 ---
 
-👩‍💻 By [Mansiiiiiiiiiiiiiiiii](https://github.com/Mansiiiiiiiiiiiiiiiii)  
+👩‍💻 By [Mansiiiiiiiiiiiiiiiii](https://github.com/Mansiikumarii)  
 🗂️ Last updated: *Automatically via LeetHub*
 
 
