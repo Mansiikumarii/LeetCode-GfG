@@ -515,4 +515,8 @@ This repo is actively maintained. More problems coming soon!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0062-unique-paths) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mansiikumarii/LeetCode-GfG/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
