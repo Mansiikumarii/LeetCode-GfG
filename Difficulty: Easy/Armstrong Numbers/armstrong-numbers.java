@@ -1,33 +1,23 @@
-// User function Template for Java
 class Solution {
-    
-    public static int power(int x, int y){
-        if(y ==0)
-        return 1;
-        
-        if(y%2 ==0)
-        return power(x,y/2)*power(x,y/2);
-        return x*power(x,y/2)*power(x,y/2);
-        
-    }
-    public static int order(int n){
-        int t=0;
-        while(n != 0){
-            t ++;
-            n= n/10;
-        }
-        return t;
-    }
     static boolean armstrongNumber(int n) {
         // code here
-        int x = order(n);
-        int temp = n, sum =0;
+        int digit =0;
+        int sum =0;
+        int originalNum = n;
         
-        while(temp != 0){
-            int r = temp % 10;
-            sum += power(r,x);
+        int temp = n;
+        while(temp>0){
+            temp = temp/10;
+            digit++;
+        }
+        
+        temp = n;
+        //find sum
+        while(temp>0){
+            int LastDigit = temp%10;
+            sum  = sum+(int) Math.pow(LastDigit, digit);
             temp = temp/10;
         }
-        return sum ==n;
+        return sum == originalNum;
     }
 }
