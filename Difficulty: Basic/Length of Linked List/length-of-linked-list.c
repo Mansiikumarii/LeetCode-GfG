@@ -7,10 +7,10 @@ struct Node {
 */
 int getCount(struct Node* head) {
     // code here
-    int count=0;
+    int c = 0;
     while(head != NULL){
-        count++;
+        c++;
         head = head->next;
     }
-    return count;
+    return c;
 }
